@@ -34,19 +34,9 @@ There is a set of opaque pieces and another set of semi-transparent pieces.
 
 ## Building the enclosure
 
-TBD
-
-### Required material
-
-TBD
-
-* One 3mm DINA3 297×420mm colored opaque acrylic sheet (cream color in the images)
-* One 3mm DINA3 297×420mm semi-transparent acrylic sheet (tobacco color in the images)
-* ...
-
 ### Assembly instructions
 
-TBD
+Follow the instructions provided at the [enclosure build guide](Build.md).
 
 ## References
 
