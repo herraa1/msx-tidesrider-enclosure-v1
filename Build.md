@@ -2,7 +2,53 @@
 
 ## Motherboard customization
 
-TBD
+The Tides Rider motherboard comes preinstalled with a power switch and a reset button, but those are not suitable for the acrylic enclosure presented here.
+
+Those elements must be de-soldered and replaced with headers so that externally accessible component alternatives can be used.
+
+[<img src="images/msx-tidesrider-enclosure-v1-build-motherboard-mod-overview-IMG_7579-annotated.png" width="512"/>](images/msx-tidesrider-enclosure-v1-build-motherboard-mod-overview-IMG_7579-annotated.png)
+
+### Required materials
+
+[<img src="images/msx-tidesrider-enclosure-v1-build-motherboard-mod-materials-IMG_8016-annotated-zoomed.png" width="512"/>](images/msx-tidesrider-enclosure-v1-build-motherboard-mod-materials-IMG_8016-annotated-zoomed.png)
+
+### Power switch replacement
+
+[<img src="images/msx-tidesrider-enclosure-v1-build-motherboard-mod-power-switch-overview-annotated.png" width="512"/>](images/msx-tidesrider-enclosure-v1-build-motherboard-mod-power-switch-overview-annotated.png)
+
+De-solder the SPDT power switch.
+* First cut its three legs from the top side of the motherboard using cutting pliers.
+  Cutting the legs allows de-soldering each leg independently, avoiding the risk of damaging the motherboard tracks and pads if you try to desolder the complete switch at once.
+* Then using a de-soldering iron (or an iron and a solder sucker) de-solder and extract one by one the remains of the switch legs, and de-solder the additional two support legs.
+  Do this from the bottom face of the motherboard, and use lots of flux and maybe extra solder to make the de-soldering process easier.
+* Using de-soldering wick clean any solder remains from the 3-pin footprint and make sure the holes are completely free of solder.
+
+Install the new power header.
+* Insert the XH2.54 3pin right angle header into the cleaned footprint for the previous SPDT switch
+* Solder the XH2.54 header pins from the bottom face of the motherboard.
+
+### Reset button replacement
+
+First, prepare a 2.45mm 3pin header (without a center pin) to replace the SMD reset button.
+
+[<img src="images/msx-tidesrider-enclosure-v1-build-motherboard-mod-header-preparation-steps-annotated.png" width="512"/>](images/msx-tidesrider-enclosure-v1-build-motherboard-mod-header-preparation-steps-annotated.png)
+
+* Take out the center pin of the 2.54mm 3pin header using pliers.
+* Remove too one of the remaining side pins using the same method.
+* Reinsert the same pin again on the same header hole _but flipping it first_ so that the pin angle is the opposite of the non-removed pin in the header
+* Make sure that both pins are inserted the same length so that the header can sit flat perpendicular to a flat surface
+
+Then, replace the SMD reset button with the header.
+
+[<img src="images/msx-tidesrider-enclosure-v1-build-motherboard-mod-reset-switch-overview-annotated.png" width="512"/>](images/msx-tidesrider-enclosure-v1-build-motherboard-mod-reset-switch-overview-annotated.png)
+
+De-solder the SMD reset button.
+* Using a soldering iron and extra flux heat all reset button pins at once to allow displacing the reset button out from its footprint. Take out the reset button once free.
+* Using de-soldering wick clean any solder remains from the SMD button footprint and make sure the pads are completely free of solder and flat.
+
+Install the new reset header.
+* Place and align the new header vertically over the SMD button footprint making sure the header legs touch two opposite pads of the SMD button footprint.
+* Solder the 3-pin header two angled pins to two of the SMD button pads, making sure there is good contact between pins and pads. Do this from the top face of the motherboard.
 
 ## Cables and cable assemblies
 
@@ -41,7 +87,7 @@ The SD card extension cable is a standard 20cm SD card female to TF micro SD mal
 
 ## Keyboard Top
 
-### Required material
+### Required materials
 
 [<img src="images/msx-tidesrider-enclosure-v1-build-keyboard-building-materials-IMG_7948-annotated.png" width="800"/>](images/msx-tidesrider-enclosure-v1-build-keyboard-building-materials-IMG_7948-annotated.png)
 
