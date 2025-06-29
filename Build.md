@@ -196,6 +196,8 @@ TBD
 
 17. Take the `Back` part and insert the Power switch cable assembly from the outside to the inside so that the SPDT power switch stays at the outside and the XH2.54 connector at the inside.
 
+    Make sure the power switch `On` symbol is right next to the engraved `On` text on the power switch hole.
+
 [<img src="images/msx-tidesrider-enclosure-v1-build-main-step-160-IMG_7981-annotated.png" width="512"/>](images/msx-tidesrider-enclosure-v1-build-main-step-160-IMG_7981-annotated.png)
 
 18. Fully insert the SPDT power switch into the `Back` part.
