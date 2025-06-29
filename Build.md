@@ -123,6 +123,7 @@ TBD
 [<img src="images/msx-tidesrider-enclosure-v1-build-main-step-010-IMG_7963-annotated.png" width="512"/>](images/msx-tidesrider-enclosure-v1-build-main-step-010-IMG_7963-annotated.png)
 
 2. Insert five M3 12mm countersunk screws and five countersunk washers, each secured by a small blob of Blue Tack.
+
    You may need to add temporary stands to elevate the `Bottom` part about 3cm to facilitate the insertion of the screws.
 
 [<img src="images/msx-tidesrider-enclosure-v1-build-main-step-020-IMG_7975-annotated.png" width="512"/>](images/msx-tidesrider-enclosure-v1-build-main-step-020-IMG_7975-annotated.png)
@@ -159,7 +160,7 @@ TBD
 
 [<img src="images/msx-tidesrider-enclosure-v1-build-main-step-090-IMG_7971-annotated.png" width="512"/>](images/msx-tidesrider-enclosure-v1-build-main-step-090-IMG_7971-annotated.png)
 
-10. Fully screw the M2.6 6mm flat screws to the SD card extension cable socket holes.
+10. Fully screw the M2.5 6mm flat screws to the SD card extension cable socket holes.
 
     The SD card socket will stay flat over the `Bottom` part.
 
