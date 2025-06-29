@@ -20,18 +20,23 @@ TBD
 
 ### DE9 extension cables
 
-TBD
+The two DE9 extension cables are standard 20cm DE9 D-Sub male to female cables that you can easily find in [Aliexpress](https://www.aliexpress.com/item/33029129554.html) (2x Option: 1PCS 20CM).
+
 
 ### SD card extension cable
 
-TBD
+The SD card extension cable is a standard 20cm SD card female to TF micro SD male flexible cable extender that you can easily find in [Aliexpress](https://www.aliexpress.com/item/4001236861433.html) (Option: 20cm).
+
 
 ## Acrylic parts
 
-TBD
-
 * One 3mm DINA3 297×420mm colored opaque acrylic sheet (cream color in the images)
+
+[<img src="images/tidesrider-case-v1-revc-3mm-dina3-crema-frrebole-ready-to-lasercut.dxf-annotated.png" width="600"/>](images/tidesrider-case-v1-revc-3mm-dina3-crema-frrebole-ready-to-lasercut.dxf-annotated.png)
+
 * One 3mm DINA3 297×420mm semi-transparent acrylic sheet (tobacco color in the images)
+
+[<img src="images/tidesrider-case-v1-revc-3mm-dina3-tobaco-to-ready-to-lasercut-annotated.png" width="600"/>](images/tidesrider-case-v1-revc-3mm-dina3-tobaco-to-ready-to-lasercut-annotated.png)
 
 
 ## Keyboard Top
