@@ -55,7 +55,7 @@ Those elements must be de-soldered and replaced with headers so that externally 
 
 De-solder the SPDT power switch.
 * First cut its three legs from the top side of the motherboard using cutting pliers.
-  Cutting the legs allows de-soldering each leg independently, avoiding the risk of damaging the motherboard tracks and pads if you try to desolder the complete switch at once.
+  Cutting the legs allows de-soldering each leg independently, avoiding the risk of damaging the motherboard tracks and pads if you try to de-solder the complete switch at once.
 * Then using a de-soldering iron (or an iron and a solder sucker) de-solder and extract one by one the remains of the switch legs, and de-solder the additional two support legs.
   Do this from the bottom face of the motherboard, and use lots of flux and maybe extra solder to make the de-soldering process easier.
 * Using de-soldering wick clean any solder remains from the 3-pin footprint and make sure the holes are completely free of solder.
@@ -67,7 +67,7 @@ Install the new power header.
 
 ### Reset button replacement
 
-First, prepare a 2.45mm 3pin header (without a center pin) to replace the SMD reset button.
+First, prepare a 2.54mm 3pin header (without a center pin) to replace the SMD reset button.
 
 [<img src="images/msx-tidesrider-enclosure-v1-build-motherboard-mod-header-preparation-steps-annotated.png" width="512"/>](images/msx-tidesrider-enclosure-v1-build-motherboard-mod-header-preparation-steps-annotated.png)
 
@@ -264,7 +264,7 @@ The SD card extension cable is a standard 20cm SD card female to TF micro SD mal
 
 12. Fully insert the micro SD card connector of the SD card extension cable into the micro SD card socket of the Tides Rider motherboard.
 
-    Insert the connector until you hear the "clic" sound indicating a full insertion.
+    Insert the connector until you hear the "click" sound indicating a full insertion.
 
 [<img src="images/msx-tidesrider-enclosure-v1-build-main-step-110-IMG_7974-annotated.png" width="512"/>](images/msx-tidesrider-enclosure-v1-build-main-step-110-IMG_7974-annotated.png)
 
@@ -334,7 +334,7 @@ The SD card extension cable is a standard 20cm SD card female to TF micro SD mal
 
 27. Take the assembled `Keyboard Top` part and plug the Keyboard cable into the Keyboard connector header of the motherboard, and the do the same with the Reset button cable.
 
-    Make sure pin 1 of the keyboard cable connector matches pin 1 of the Todes Rider motherboard keyboard IDC connector.
+    Make sure pin 1 of the keyboard cable connector matches pin 1 of the Tides Rider motherboard keyboard IDC connector.
 
 [<img src="images/msx-tidesrider-enclosure-v1-build-main-step-220-IMG_7991-annotated.png" width="512"/>](images/msx-tidesrider-enclosure-v1-build-main-step-220-IMG_7991-annotated.png)
 
